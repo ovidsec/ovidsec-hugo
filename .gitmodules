@@ -1,0 +1,3 @@
+[submodule "ovidsec.github.io"]
+	path = ovidsec.github.io
+	url = git@github.com:ovidsec/ovidsec.github.io.git
